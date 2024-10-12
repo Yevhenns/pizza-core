@@ -1,0 +1,12 @@
+{
+    "name": "pizza-core",
+    "version": "1.0.0",
+    "description": "Pizza core",
+    "main": "index.ts",
+    "author": "Yevhenns",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^22.7.5",
+        "typescript": "^5.6.3"
+    }
+}
