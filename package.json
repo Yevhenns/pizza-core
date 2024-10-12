@@ -1,8 +1,8 @@
 {
     "name": "pizza-core",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Pizza core",
-    "main": "index.d.ts",
+    "main": "index.ts",
     "author": "Yevhenns",
     "license": "ISC",
     "devDependencies": {
