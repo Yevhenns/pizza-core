@@ -2,7 +2,7 @@
     "name": "pizza-core",
     "version": "1.0.0",
     "description": "Pizza core",
-    "main": "index.ts",
+    "main": "index.d.ts",
     "author": "Yevhenns",
     "license": "ISC",
     "devDependencies": {
